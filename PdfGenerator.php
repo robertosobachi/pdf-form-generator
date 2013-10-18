@@ -1,6 +1,6 @@
 <?php
 /**
- * Pdf From Generator
+ * Pdf Form Generator
  *
  * @package Pdf Form Generator
  * @version 1.0
